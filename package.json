@@ -1,0 +1,15 @@
+{
+  "name": "afg-docs",
+  "version": "1.0.0",
+  "description": "灵蛙企业级应用平台文档",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "packageManager": "pnpm@10.0.0"
+}
