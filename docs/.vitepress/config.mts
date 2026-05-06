@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/afg-docs/',
   title: '灵蛙企业级应用平台',
   description: '企业级应用开发框架文档',
   lang: 'zh-CN',
