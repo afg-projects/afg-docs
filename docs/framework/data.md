@@ -2594,4 +2594,3 @@ afg:
 
 - [核心模块](/framework/core)
 - [Redis 集成](/framework/redis)
-- [数据库迁移](/framework/liquibase)
